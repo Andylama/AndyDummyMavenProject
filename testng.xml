@@ -7,6 +7,7 @@
       <class name="com.tutuorialsninja.TestCases.RegisterTest"/>
       <class name="com.tutuorialsninja.TestCases.LoginTest"/>
        <class name="com.tutuorialsninja.TestCases.SearchProductTest"/>
+        <class name="com.tutuorialsninja.TestCases.AddToProductTest"/>
        
        
     </classes>
