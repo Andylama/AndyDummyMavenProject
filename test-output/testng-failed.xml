@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.tutuorialsninja.TestCases.AddToProductTest">
+      <class name="com.PracticePackage.Practice3">
         <methods>
           <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="checkingOutValidProduct"/>
+          <include name="highlightAndInteractWithElements"/>
+          <include name="loginSetup"/>
         </methods>
-      </class> <!-- com.tutuorialsninja.TestCases.AddToProductTest -->
+      </class> <!-- com.PracticePackage.Practice3 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
